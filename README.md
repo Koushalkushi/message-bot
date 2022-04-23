@@ -1,10 +1,9 @@
-# Girlfriend/Boyfriend Morning / Night Text! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Too Lazy to Send your Girlfriend Daily Good Morning and Good Night Messages? Here's a Solution :) A Simple Script that sends whatsapp greetings to your loved ones :)
+Too Busy to take care of your Loved one's? Here's a Solution :) A Simple Script that sends whatsapp greetings to your loved ones :)
 
 ## PLEASE GIVE IT A STAR IF YOU LIKE MY WORK, THANKS <3
 
-<img src="https://i.ibb.co/PMFJdSv/image.jpg">
 
 ## DISCLAIMER
 This bot is created for educational purposes only, I am not responsible for the misuse of this product.
@@ -28,10 +27,9 @@ This bot is created for educational purposes only, I am not responsible for the 
 4. Enjoy :)
 
 ### Keywords:
-1. Text your girlfriend Good Morning automatically.
-2. Send message to your girlfriend or boyfriend auto.
-3. Send Mesaages Good Morning Babe, Good Morning Love, Good Morning Cutie.
-4. Send Text to the girlfriend in morning automatically bot.
-5. Send Random messages to girlfriend and boyfriend
+1. Text em Good Morning automatically. (if wanna send other edit above)
+2. Send message automatically.
+3. Send Text to automatically by setting time.
+4. Send Random messages to any
 
 ## Have a nice day :)
